@@ -23,12 +23,13 @@ A project to replicate the user interface of Netflix using HTML and CSS. This cl
 - `scripts/` - Contains the JS file
     - `app.js` - Complete Functionality (FAQ)
 
+
 ## Code Details
-### JavaScript
+### JavaScript 
+
 - FAQ Toggle Functionality: Toggles the visibility of answers in the FAQ section.
 - Language Selection: Changes the language of the page based on the user's selection.
 ### CSS
 - Variables: Defined for font, color, and button styles.
 - Layout: Uses Flexbox and Grid for responsive design.
 - Styling: Consistent styling for buttons, text, and layout elements.
-
